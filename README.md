@@ -6,7 +6,7 @@
 - 🏡 Lives in **Ufa, Russia**
 - ⚡ Fun Facts : 🏂💃⚽️🏓✈️🎨🌴🏕
 
-## Connect with meMore actions
+## Connect with me
 <p align="center">
   <a href="https://wa.me/79123519280"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://t.me/julia_ruslanina"><img src="https://img.shields.io/badge/telegram-blue?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
