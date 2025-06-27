@@ -4,7 +4,7 @@
 
 - 🎓 Junior Python Developer
 - 🏡 Lives in **Ufa, Russia**
-- ⚡ Fun Facts : 🏂💃⚽️🏓✈️🎨🌴🏕
+- ⚡ Fun Facts : 🏂💃⚽️🏓🎨✈️🌴🏎🏕
 
 ## Connect with me
 <p align="center">
